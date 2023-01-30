@@ -125,7 +125,7 @@ public class IEWireTypes
 		@Override
 		public double getSlack()
 		{
-			return 1.005;
+			return 1.00005;
 		}
 
 		@Override
@@ -278,7 +278,7 @@ public class IEWireTypes
 		@Override
 		public double getSlack()
 		{
-			return 1.001;
+			return 1.00001;
 		}
 
 		@Override
